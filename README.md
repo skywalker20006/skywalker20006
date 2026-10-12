@@ -1,5 +1,3 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hey+I'm+Sandul+👋;I+make+things+for+the+web;I+overthink+the+pixels)
-
 # Hey, I'm Sandul 👋
 
 I make things for the web and overthink the pixels.
