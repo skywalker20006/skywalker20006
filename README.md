@@ -3,7 +3,7 @@
 I make things for the web and overthink the pixels.
 
 ## 💫 About Me
-Third-year CS student at APIIT Sri Lanka 🇱🇰. I love UI/UX and building web projects, and I'm always learning by shipping.
+Third-year CS student at APIIT Sri Lanka 🇱🇰. I love UI/UX and building web projects, and i really love coffee.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandul-fernando-294001366)
